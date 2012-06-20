@@ -1,4 +1,8 @@
-bison-calculators
+Bison Calculator Tests
 =================
 
-The bison calculators that appear in the manual
+The calculator examples that appear in the manual for bison.
+
+See <http://www.gnu.org/software/bison/manual/html_node/Examples.html> for reference.
+
+
